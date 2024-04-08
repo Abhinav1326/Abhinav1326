@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhinav Gore</h1>
-<h3 align="center">A Passionate Web Developer and Python Developer from India</h3>
+<h3 align="center">A Passionate Web Developer and Python Developer from India</h3> <br>
 
-<img align="right" alt="Coding" width="400" style="margin-top: 200px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 - 🔭 I’m currently working on **Personal Voice Assistant (Veronica)**
 
@@ -13,6 +12,7 @@
 - 💬 Ask me about **Web Development, Python**
 
 - 📫 How to reach me **abhinavrbgore13@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -25,6 +25,7 @@
 </div>
 
 ###
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -108,6 +109,7 @@
 ###
 
 
+<h3 align="left">Github Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav1326&show_icons=true&locale=en&layout=compact" alt="abhinav1326" /></p>
 
