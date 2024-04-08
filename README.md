@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Gore</h1>
 <h3 align="center">A Passionate Web Developer and Python Developer from India</h3>
 
-<img align="right" alt="Coding" width="550" style="margin-top: 200px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="right" alt="Coding" width="400" style="margin-top: 200px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 - 🔭 I’m currently working on **Personal Voice Assistant (Veronica)**
 
