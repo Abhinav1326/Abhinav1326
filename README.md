@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Web Developer and Python Developer from India</h3> <br>
 
 
-- 🔭 I’m currently working on **Personal Voice Assistant (Veronica)**
+- 🔭 I’m currently working on **AI Based Personal Voice Assistant (Veronica)**
 
 - 🌱 I’m currently learning **Docker, AI & ML, React**
 
