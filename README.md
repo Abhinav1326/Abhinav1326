@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, AI & ML, React**
 
-- 👨‍💻 All of my projects are available at [devabhi.tech](http://www.devabhi.tech)
+- 👨‍💻 More about me at [developerabhi.me](http://www.developerabhi.me)
 
 - 💬 Ask me about **Web Development, Python**
 
